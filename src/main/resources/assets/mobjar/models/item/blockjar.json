@@ -1,0 +1,6 @@
+{
+  "parent": "mobjar:block/jar",
+  "textures": {
+      "all": "blocks/glass_white"
+  }
+}

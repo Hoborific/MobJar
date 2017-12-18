@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobjar",
+  "name": "Hobo's Mob Jar",
+  "description": "Jarring mobs for your pleasure.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hoborific"],
+  "credits": ",",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
