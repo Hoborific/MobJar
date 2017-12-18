@@ -2,6 +2,8 @@ package com.hoborific.mobjar;
 
 public class Reference {
 
+    public static final String modId = "mobjar";
+
     public enum MobJarItems {
         JAR("jar","ItemJar");
 
