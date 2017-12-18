@@ -1,12 +1,11 @@
 {
-  "parent": "minecraft:block/block",
+  "parent": "minecraft:block/glass",
   "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
   "ambientocclusion": true,
   "textures": {
     "0": "blocks/stone_slab_side",
     "1": "blocks/stone_slab_top",
-    "2": "blocks/glass_gray",
-    "particle:": "#glass"
+    "2": "blocks/glass_gray"
   },
   "elements": [
     {
